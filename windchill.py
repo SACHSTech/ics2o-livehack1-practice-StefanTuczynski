@@ -1,10 +1,10 @@
 """
-Name: windchill.py
+Name:   windchill.py
 Purpose: to take the tempurature (celcius) and the wind speed (km/h) 
 
-Author: Stefan Tuczynski
+Author: Tuczynski.S
 
-Date: 03/12/2020
+Date:   03/12/2020
 """
 
 #gets information on degrees and windspeed from user 

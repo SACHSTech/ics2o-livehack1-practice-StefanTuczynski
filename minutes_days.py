@@ -1,10 +1,10 @@
 """
-Name: minutes_days.py
+Name:   minutes_days.py
 Purpose: Convert a set amount of minutes into days.
 
-Author: Stefan Tuczynski
+Author: Tuczynski.S
 
-Date: 03/12/2020
+Date:   03/12/2020
 """
 
 #takes minutes given from user

@@ -1,10 +1,10 @@
 """
-Name: days_hours.py
+Name:   days_hours.py
 Purpose: Convert a set amount of days into hours.
 
-Author: Stefan Tuczynski
+Author: Tuczynski.S
 
-Date: 03/12/2020
+Date:   03/12/2020
 """
 
 #takes days given from user

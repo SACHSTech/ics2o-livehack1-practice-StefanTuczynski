@@ -1,11 +1,11 @@
 """
-Name: f_to_c.py
+Name:   f_to_c.py
 Purpose: To convert a set amount of degrees farienheight to a
 set amount of degrees celcius.
 
-Author: Stefan Tuczynski
+Author: Tuczynski.S
 
-Date: 03/12/2020
+Date:   03/12/2020
 """
 
 #Asks user for the amount of degrees farienheight
